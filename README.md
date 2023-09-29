@@ -1,4 +1,6 @@
-# gosecrets
+<h1 align="center">
+  <img src="https://cdn3.iconfinder.com/data/icons/bugs-and-errors-soft-fill/60/Website-Bug-Search-virus-magnifying-glass-512.png" width="60px" alt="gosecrets">
+</h1>
 
 **gosecrets** is a Go-based tool that assists in identifying sensitive keys and confidential information that may be exposed in code repositories, files, and directories. This tool is useful for security researchers and developers who want to ensure that sensitive information is not publicly accessible.
 
